@@ -1,5 +1,5 @@
 <h1 align="center">FolSpam</h1>
-<h4 align="center">Folder flooder</h4>
+<h4 align="center">Folder flood</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/FolSpam/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/FolSpam?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/FolSpam"><img src="https://bettercodehub.com/edge/badge/I2rys/FolSpam?branch=main"></a>
